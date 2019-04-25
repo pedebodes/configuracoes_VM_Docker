@@ -13,7 +13,7 @@ sudo apt-get update
 sudo apt-get install docker-ce
 sudo apt install docker.io
 sudo docker run hello-world
-
+```
 
 
 ### Instalando Docker Compose
@@ -25,5 +25,5 @@ https://linuxize.com/post/how-to-install-and-use-docker-compose-on-ubuntu-18-04/
 sudo curl -L "https://github.com/docker/compose/releases/download/1.23.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
-
+```
 
