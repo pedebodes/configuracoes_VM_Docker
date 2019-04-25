@@ -1,7 +1,9 @@
 ## Comandos para configurar ambiente de desenvolvimento Docker utilizando virtualBox - Ubuntu 
 
-###Instalando Docker CE
+### Instalando Docker CE
+
 ```python
+
 sudo apt-get install docker.io
 sudo apt-get update
 sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
@@ -14,9 +16,9 @@ sudo docker run hello-world
 
 
 
-###Instalando Docker Compose
+### Instalando Docker Compose
 
-####URL <br>
+#### URL <br>
 https://linuxize.com/post/how-to-install-and-use-docker-compose-on-ubuntu-18-04/
 
 ```python
