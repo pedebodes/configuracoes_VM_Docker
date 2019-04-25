@@ -74,7 +74,14 @@ docker-compose up -d
 # checkar os container em execução
 docker-compose ps
 
+#para o container
+docker-compose stop
 
+# remove o container
+docker-compose down
+
+# remove o container e os volumes
+docker-compose down --volumes
 ```
 
 
